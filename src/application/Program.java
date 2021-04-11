@@ -13,6 +13,8 @@ public class Program {
 		//Pós Alteração
 		
 		System.out.println("Última alteração do projeto teste");
+		
+		System.out.println("Bom dia !");
 
 	}
 
